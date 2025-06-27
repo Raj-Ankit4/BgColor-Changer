@@ -6,7 +6,6 @@ BGChanger is a simple yet interactive web application that allows users to dynam
 
 👉 [Click here to try BGChanger](https://bg-color-changer-kqp0rald0-ankit-rajs-projects-9e93d611.vercel.app)
 
-> Replace the above link with your actual deployed link (e.g., from Vercel, Netlify, or GitHub Pages).
 
 ## ✨ Features
 
@@ -19,6 +18,3 @@ BGChanger is a simple yet interactive web application that allows users to dynam
 - HTML
 - CSS
 - JavaScript
-
-## 📁 Project Structure
-
